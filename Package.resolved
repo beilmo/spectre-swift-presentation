@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SpectreDomain",
+        "repositoryURL": "https://github.com/beilmo/spectre-swift-domain",
+        "state": {
+          "branch": null,
+          "revision": "b6a2615783f544502c9e8bd330e6d170e6bd9dfb",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
